@@ -5,7 +5,9 @@
 </p>
 
 <h1 align="center">🧘 Shivansh Gupta (VishVerse) 🌌</h1>
-<p align="center">Fullstack Dev | DSA in C++ | Builder of Divine-Tech Projects | UI/UX Craftsman | Merging Karma with Code</p>
+<p align="center">Fullstack Dev | DSA in C++ | Builder of Divine-Tech Projects</p>
+<p align="center">UI/UX Craftsman | Merging Karma with Code</p>
+
 
 ---
 
@@ -35,7 +37,6 @@ const vish = {
 | 🌌 Anonymous Universe | Anonymous posting + AI Vedic responses | React, OpenAI, Node.js | Coming Soon |
 | 🧠 DSA Visualizer | Converts natural language to animated DSA visuals | JavaScript, DOM, HTML | [View Repo](https://github.com/vishShivansh/DSAvisualizer) |
 | 🗒️ Diary AI Companion | Empathetic AI that feels like a friend | TypeScript, React, Emotion | [Repo](https://github.com/vishShivansh/diary-ai-companion) |
-| 🏠 Real Estate Platform | Secure MERN stack project with listing/auth | React, Node, MongoDB | [Live](https://mern-real-estate-gamma.vercel.app/) |
 | 🌐 Portfolio | Multipage portfolio built with love | React, Express, Vercel | [Live](https://my-portfolio-shivansh-guptas-projects-acc2e36d.vercel.app/) |
 
 ---
