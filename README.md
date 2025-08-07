@@ -51,6 +51,8 @@ const vish = {
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishShivansh&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishShivansh&show_icons=true&theme=radical&hide=contribs&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishShivansh&layout=compact&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishShivansh&theme=tokyonight" />
 </p>
 
