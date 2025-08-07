@@ -1,7 +1,7 @@
 <!-- README by ChatGPT | Shivansh Gupta aka VishVerse -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F6F6F6&center=true&vCenter=true&width=800&lines=Hey+I%E2%80%99m+Shivansh+Gupta+%28VishVerse%29!;Fullstack+Developer+%7C+DSA+%7C+UI+Craftsman+%7C+Creative+Thinker;Code+%2B+Dharma+%3D+Soulful+Software+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F6F6F6&center=true&vCenter=true&width=800&lines=Namaste+I%E2%80%99m+Shivansh+Gupta+%28VishVerse%29!;Fullstack+Developer+%7C+DSA;UI+Craftsman+%7C+Creative+Thinker;" alt="Typing SVG" />
 </p>
 
 <h1 align="center">🧘 Shivansh Gupta (VishVerse) 🌌</h1>
