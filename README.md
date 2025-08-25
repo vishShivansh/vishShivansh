@@ -36,7 +36,7 @@ const vish = {
 |--------|-------------|------------|------|
 | 🌌 Anonymous Universe | Anonymous posting + AI Vedic responses | React, OpenAI, Node.js | Coming Soon |
 | 🗒️ SwarAI (AI Music Generation) | AI-powered music generation app with auto-thumbnail & lyrics creation. | Next.js, Prisma, and Modal | [Live](https://music-generation-frontend-xi.vercel.app/) |
-| 🧠 DSA Visualizer | Converts natural language to animated DSA visuals | JavaScript, DOM, HTML | [View Repo](https://github.com/vishShivansh/DSAvisualizer) |
+<!-- | 🧠 DSA Visualizer | Converts natural language to animated DSA visuals | JavaScript, DOM, HTML | [View Repo](https://github.com/vishShivansh/DSAvisualizer) | -->
 <!-- | 🗒️ Diary AI Companion | Empathetic AI that feels like a friend | TypeScript, React, Emotion | [Repo](https://github.com/vishShivansh/diary-ai-companion) | -->
 | 🌐 Portfolio | Multipage portfolio built with love | React, Express, Vercel | [Live](https://my-portfolio-shivansh-guptas-projects-acc2e36d.vercel.app/) |
 
@@ -60,11 +60,27 @@ const vish = {
 
 ## 🔗 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-shivansh-guptas-projects-acc2e36d.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivansh-gupta-54ba2a226/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sgshivansh22/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishShivansh)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vish._shivansh)
+<p align="start">
+  <a href="https://www.linkedin.com/in/shivansh-gupta-54ba2a226" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/vish._shivansh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://my-portfolio-shivansh-guptas-projects-acc2e36d.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-E4405F?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/sgshivansh22" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/vishShivansh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+  </a>
+</p>
 ---
 
 <p align="center"><b>✨ “In every div, I see divine intention.” – VishVerse ✨</b></p>
